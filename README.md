@@ -5,13 +5,13 @@
 ## Table of Contents:
 
 - [Problem Statement](https://github.com/pratiktamgadge/PWC_task_2-Customer_Churn_Retension_dashboard/edit/main/README.md#problem-statement-)
-- [Datasource](https://github.com/pratiktamgadge/PWC_task_2-Customer_Churn_Retension_dashboard/edit/main/README.md#datasource-)
-- [Data Preparation](https://github.com/pratiktamgadge/PWC_task_2-Customer_Churn_Retension_dashboard/edit/main/README.md#data-preparation)
-- [Data Modeling](https://github.com/pratiktamgadge/PWC_task_2-Customer_Churn_Retension_dashboard/edit/main/README.md#data-modeling)
-- [Data Analysis (DAX)](https://github.com/pratiktamgadge/PWC_task_2-Customer_Churn_Retension_dashboard/edit/main/README.md#data-analysis-dax)
-- [Data Visualization (Dashboard)](https://github.com/pratiktamgadge/PWC_task_2-Customer_Churn_Retension_dashboard/edit/main/README.md#data-visualization-dashboard)
-- [Insights](https://github.com/pratiktamgadge/PWC_task_2-Customer_Churn_Retension_dashboard/edit/main/README.md#insights)
-- [Recommendation](https://github.com/pratiktamgadge/PWC_task_2-Customer_Churn_Retension_dashboard/edit/main/README.md#recommendation)
+- [Datasource](https://github.com/pratiktamgadge/PWC_task_2-Customer_Churn_Retension_dashboard/edit/main/README.md##datasource-)
+- [Data Preparation](https://github.com/pratiktamgadge/PWC_task_2-Customer_Churn_Retension_dashboard/edit/main/README.md#data-preparation-)
+- [Data Modeling](https://github.com/pratiktamgadge/PWC_task_2-Customer_Churn_Retension_dashboard/edit/main/README.md#data-modeling-)
+- [Data Analysis (DAX)](https://github.com/pratiktamgadge/PWC_task_2-Customer_Churn_Retension_dashboard/edit/main/README.md#data-analysis-dax-)
+- [Data Visualization (Dashboard)](https://github.com/pratiktamgadge/PWC_task_2-Customer_Churn_Retension_dashboard/edit/main/README.md#data-visualization-dashboard-)
+- [Insights](https://github.com/pratiktamgadge/PWC_task_2-Customer_Churn_Retension_dashboard/edit/main/README.md#insights-)
+- [Recommendation](https://github.com/pratiktamgadge/PWC_task_2-Customer_Churn_Retension_dashboard/edit/main/README.md#recommendation-)
 
 ## Problem Statement :
 
